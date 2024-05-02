@@ -1,1 +1,32 @@
-43||https://t.me/Omar_Plus||https://t.me/Omar_Plus
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "1",
+    "update_version": "v1.6",
+    "com.alaskar": "https://syriia.blogspot.com/2019/08/20-MG.html",
+    "com.alaskar1": "https://syriia.blogspot.com/2019/08/20-MG.html",
+    "com.alaskar2": "https://syriia.blogspot.com/2019/08/20-MG.html",
+    "com.alaskar3": "https://syriia.blogspot.com/2019/08/20-MG.html",
+    "com.alaskar4": "https://syriia.blogspot.com/2019/08/20-MG.html",
+    "update_message": "
+<p>Update Vتحديث 7.5</p>
+<li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
+<li>تحسين زر حفظ الحالات</li>
+<li>تحسين ظهور زر الترجمة في المحادثة</li>
+<li>تحسين إشعار متصل الان</li>
+<li>إصلاح شاشة ارسال الموقع</li>
+<li>إصلاح تخصيص المحادثات في حال كان الرقم مفعل على واتساب بزنس</li>
+<li>إصلاح خيار تشغيل الفيديوهات بمشغل خارجي</li>
+<li>إصلاحات اخرى</li>
+
+<li>Added option to hide revoked story notification</li>
+<li>Improving Statues download fab</li>
+<li>Improving Translation button in chat</li>
+<li>Improving Online toast</li>
+<li>Fixed send location</li>
+<li>Fixed custom settings for businesse chats</li>
+<li>Fixed playing videos with Mx player</li>
+<li>Other fixes</li>
+"
+    }
+}
